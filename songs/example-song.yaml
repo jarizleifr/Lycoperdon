@@ -1,0 +1,26 @@
+Tempo: 140
+Swing: 4
+Humanize: 25
+Variance: 5
+
+First: None
+Accent: HihatOpen
+
+Song:
+- SILENCE 8
+- PLAY 8 count
+
+- SET FIRST Crash1
+- PLAY 32 rock
+- PLAY 28 motorik
+- SET FIRST None
+- PLAY 4 fill_random_4
+
+- SET FIRST Crash1
+- SET ACCENT Ride1
+- PLAY 32 motorik
+- PLAY 28 rock_db
+- SET FIRST None
+- PLAY 4 fill_snare
+
+- SILENCE 8
